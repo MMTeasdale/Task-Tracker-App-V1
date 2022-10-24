@@ -1,20 +1,6 @@
 # Task-Tracker-App-V1
 
-  *Overview* 
+When doing this project I had multiple difficulties as I still have some struggles within using JavaScript, and now implementing node.js / .fs was an entirely new challenge. A challenge that I never fully figured out. I was unable to understand and implement .fs into my project. 
+I know the ReadMe file is to describe the struggles and errors I endured, however, I still think there are a lot of errors I need to work through when working with Node.js, and those sorts of things. I worked with both peers, mentors, and referenced google and other resources past that. I do need to continue to work on these aspects as time progresses but I look at this as a learning experience and it did help me to research this topic further and I appreciate the task. 
 
-Create a task from scratch using Html, Css, then add javascript for the application in order to add tasks, edit tasks, save tasks and delete tasks.
-				*Requirements* 
-
-This will also need to be Tablet & Mobile responsive.
-
-Add a ReadMe file describing the process you had to go through when building the application. Also add a section talking about some errors you had and how you solved those errors.
-
-Add JS validation to ensure that the user is entering valid input. 
-
- The user’s should have a local file can be JSON or Txt File to The users data should be written to a local file. 
-For example it should read all the task in the file and display to the user
-Delete a task from the file, Update a task from the file and insert a New task into the file.
-Use the file system .FS
-
-
-The Task Tracker Application must be deployed with AWS.  
+I had multiple task tracker folders full of tests and trials on using .fs and JSON, as well as a littl pug as (Hector) used. None of it clicked enough or worked well enough for me to fully use it and incorporate it into my code. I used what code I did understand and commented it as I saw fit. 
